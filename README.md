@@ -1,4 +1,4 @@
-<!-- Header GIF ve isim -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
@@ -10,7 +10,6 @@
 </p>
 
 
-<!-- Teknolojiler -->
 <p align="center"> 
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/> 
@@ -35,12 +34,12 @@
   </a> 
 </p>
 
-<!-- My Stats -->
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buseeyldrm&theme=dark&hide_border=true"/>
 </p>
 
-<!-- Sosyal Medya -->
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/buseeyldrm/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/>
