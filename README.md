@@ -41,15 +41,13 @@
 
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/buseeyldrm/" target="_blank">
+  <a href="https://www.linkedin.com/in/buse-yildirim-87b418226/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/>
   </a>
   <a href="mailto:buseeeyldrm3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#1DA1F2"/>
-  </a>
+
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
