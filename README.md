@@ -47,9 +47,7 @@
   <a href="mailto:buseeeyldrm3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
- <a href="https://www.instagram.com/_buseee.y/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
+
 
 
 </div>
